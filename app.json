@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": "923444844060"
+      "value": "923321709972"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -23,7 +23,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "fBpDyRBB#gFKJck_meG-eIKOsOA8m4YtN4xwMhy9nJyvmaGaOlr0",
       "required": true,
       "value": ""
     },
